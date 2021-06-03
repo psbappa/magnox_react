@@ -42,31 +42,4 @@ class Listings extends Component {
   }
 }
 
-// const Listings = ({ listings }) => {
-//   return (
-// <div className="container">
-//   <center><h1>User List</h1></center>
-
-//   <table className='table'>
-//     <thead>
-//       <tr>
-//         <th>Name</th>
-//         <th>Phone</th> 
-//         <th>Email</th>
-//       </tr>
-//     </thead>
-//     <tbody>
-//     {listings.map((listing) => (
-//       <tr>
-//         <td>{listing.name}</td>
-//         <td>{listing.phone}</td>
-//         <td>{listing.email}</td>
-//       </tr>
-//     ))}
-//     </tbody>
-//   </table>
-// </div>
-//   )
-// };
-
 export default Listings

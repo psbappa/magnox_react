@@ -1,0 +1,4 @@
+1. In this react application, we can create class (statefull) component.
+2. Make route path.
+3. make use of Navbar component.
+4. child component can retrieved data from specified api and render responce to the UI. 
